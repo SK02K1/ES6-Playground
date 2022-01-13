@@ -17,3 +17,6 @@
 
 ## 🧠 Extras
 - [Polyfills and shims](https://codesandbox.io/s/01-polyfill-shim-if3k4?file=/src/index.js)
+
+## 📚 Good Reads
+- [10 best JavaScript practices recommended by Top Developers](https://blog.hrithwik.me/10-best-javascript-practices-recommended-by-top-developers)
